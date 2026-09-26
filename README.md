@@ -12,7 +12,7 @@ AI assistants write fluent Elixir. What they get wrong is quieter: code that com
 
 Facts are checked against the Elixir 1.20 documentation, and examples were run on a real Elixir installation. Runtime topics shared with Erlang (processes, memory, ETS, distribution, schedulers) are covered in the companion book, [Learning Erlang from Claude](https://github.com/ayarodionov/Learning-Erlang-from-Claude).
 
-Start with the [Introduction](md/00-Introduction.md).
+Start with the [Introduction](md/00-Introduction.md); when reviewing code, use the [Review Cheat Sheet](md/14-Review-Cheat-Sheet.md).
 
 | # | Chapter | PDF | Markdown |
 | --- | --- | --- | --- |
@@ -28,6 +28,9 @@ Start with the [Introduction](md/00-Introduction.md).
 | 9 | Macros | [pdf](pdf/09-Macros.pdf) | [md](md/09-Macros.md) |
 | 10 | Mix, Configuration and Releases | [pdf](pdf/10-Mix-Config-and-Releases.pdf) | [md](md/10-Mix-Config-and-Releases.md) |
 | 11 | Testing with ExUnit | [pdf](pdf/11-Testing-with-ExUnit.pdf) | [md](md/11-Testing-with-ExUnit.md) |
+| 12 | Types | [pdf](pdf/12-Types.pdf) | [md](md/12-Types.md) |
+| 13 | Observability | [pdf](pdf/13-Observability.pdf) | [md](md/13-Observability.md) |
+| 14 | Review Cheat Sheet | [pdf](pdf/14-Review-Cheat-Sheet.pdf) | [md](md/14-Review-Cheat-Sheet.md) |
 
 ## Rebuilding the PDFs
 
