@@ -20,6 +20,8 @@ Start with the [Introduction](md/00-Introduction.md).
 | 1 | Pattern Matching and Data | [pdf](pdf/01-Pattern-Matching-and-Data.pdf) | [md](md/01-Pattern-Matching-and-Data.md) |
 | 2 | Errors and Control Flow | [pdf](pdf/02-Errors-and-Control-Flow.pdf) | [md](md/02-Errors-and-Control-Flow.md) |
 | 3 | Processes, Tasks and Agents | [pdf](pdf/03-Processes-Tasks-and-Agents.pdf) | [md](md/03-Processes-Tasks-and-Agents.md) |
+| 4 | GenServer | [pdf](pdf/04-GenServer.pdf) | [md](md/04-GenServer.md) |
+| 5 | Supervision and Registry | [pdf](pdf/05-Supervision-and-Registry.pdf) | [md](md/05-Supervision-and-Registry.md) |
 
 ## Rebuilding the PDFs
 
