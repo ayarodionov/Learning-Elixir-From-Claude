@@ -25,6 +25,9 @@ Start with the [Introduction](md/00-Introduction.md).
 | 6 | Enum, Stream and Collections | [pdf](pdf/06-Enum-Stream-and-Collections.pdf) | [md](md/06-Enum-Stream-and-Collections.md) |
 | 7 | Strings and Unicode | [pdf](pdf/07-Strings-and-Unicode.pdf) | [md](md/07-Strings-and-Unicode.md) |
 | 8 | Protocols and Behaviours | [pdf](pdf/08-Protocols-and-Behaviours.pdf) | [md](md/08-Protocols-and-Behaviours.md) |
+| 9 | Macros | [pdf](pdf/09-Macros.pdf) | [md](md/09-Macros.md) |
+| 10 | Mix, Configuration and Releases | [pdf](pdf/10-Mix-Config-and-Releases.pdf) | [md](md/10-Mix-Config-and-Releases.md) |
+| 11 | Testing with ExUnit | [pdf](pdf/11-Testing-with-ExUnit.pdf) | [md](md/11-Testing-with-ExUnit.md) |
 
 ## Rebuilding the PDFs
 
