@@ -1,6 +1,6 @@
 ---
 title: "Observability — A Readable Companion to the Elixir Docs"
-subtitle: "Chapter 13 · checked against Elixir 1.20 · examples run on Elixir 1.14 · Sep 26, 2026"
+subtitle: "Chapter 13 · checked against Elixir 1.20 · examples run on Elixir 1.14 and 1.18 · Sep 26, 2026"
 ---
 
 ## 1. Why observability in Elixir is mostly the BEAM's

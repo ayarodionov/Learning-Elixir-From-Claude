@@ -1,6 +1,6 @@
 ---
 title: "Enum, Stream and Collections — A Readable Companion to the Elixir Docs"
-subtitle: "Chapter 6 · checked against Elixir 1.20 · examples run on Elixir 1.14 · Sep 26, 2026"
+subtitle: "Chapter 6 · checked against Elixir 1.20 · examples run on Elixir 1.14 and 1.18 · Sep 26, 2026"
 ---
 
 ## 1. Why collections are where performance hides
@@ -98,7 +98,7 @@ end
 retry(0)   # runs attempts 1 and 0
 ```
 
-With `n = 0` the range is `1..0`, which counts down, so the loop runs twice instead of not at all (verified: `[1, 0]`). Off-by-one bugs like this are easy to miss because they only show at the boundary. Fix: `1..n//1`, which is empty when `n < 1`.
+With `n = 0` the range is `1..0`, which counts down, so the loop runs twice instead of not at all (verified: `[1, 0]`). Off-by-one bugs like this are easy to miss because they only show at the boundary. Elixir 1.18 prints a deprecation warning when such a range is built at run time, but the loop still runs (verified). Fix: `1..n//1`, which is empty when `n < 1`.
 
 ### 4.5 A stream consumed twice
 

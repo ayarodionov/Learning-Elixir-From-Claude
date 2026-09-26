@@ -10,9 +10,11 @@ AI assistants write fluent Elixir. What they get wrong is quieter: code that com
 4. **Plausible but wrong**: code that looks right and isn't, and the fix
 5. **Review checklist and sources**
 
-Facts are checked against the Elixir 1.20 documentation, and examples were run on a real Elixir installation. Runtime topics shared with Erlang (processes, memory, ETS, distribution, schedulers) are covered in the companion book, [Learning Erlang from Claude](https://github.com/ayarodionov/Learning-Erlang-from-Claude).
+Facts are checked against the Elixir 1.20 documentation, and examples were run on Elixir 1.14 and 1.18. Runtime topics shared with Erlang (processes, memory, ETS, distribution, schedulers) are covered in the companion book, [Learning Erlang from Claude](https://github.com/ayarodionov/Learning-Erlang-from-Claude).
 
 Start with the [Introduction](md/00-Introduction.md); when reviewing code, use the [Review Cheat Sheet](md/14-Review-Cheat-Sheet.md).
+
+**Whole book in one PDF:** [Elixir book, all chapters](pdf/Learning-Elixir-from-Claude.pdf), with a table of contents.
 
 | # | Chapter | PDF | Markdown |
 | --- | --- | --- | --- |
@@ -35,3 +37,5 @@ Start with the [Introduction](md/00-Introduction.md); when reviewing code, use t
 ## Rebuilding the PDFs
 
 Edit the Markdown in `md/`, then run `tools/build.sh` (all chapters) or `tools/build.sh md/01-Pattern-Matching-and-Data.md` (one chapter). It needs `pandoc` and Chromium or Chrome; set `CHROME=/path/to/chrome` if it isn't found automatically.
+
+To rebuild the combined book, run `tools/build_book.py` (same requirements).

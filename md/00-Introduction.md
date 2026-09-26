@@ -46,7 +46,7 @@ If you come from Erlang, chapter 12 of the Erlang book maps the two languages; s
 
 ## Conventions
 
-- Facts were checked against the Elixir 1.20 documentation. Examples were run on Elixir 1.14 (OTP 24); where behaviour differs between versions, the text says so.
+- Facts were checked against the Elixir 1.20 documentation. Examples were run on Elixir 1.14 and again on Elixir 1.18 (OTP 25), with the same results; where behaviour differs between versions, the text says so.
 - Code examples are short and show one mistake each.
 - "The Erlang book" means the companion *Learning Erlang from Claude*, cited by chapter number.
 

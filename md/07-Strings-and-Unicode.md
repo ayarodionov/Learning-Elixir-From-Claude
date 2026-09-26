@@ -1,6 +1,6 @@
 ---
 title: "Strings and Unicode — A Readable Companion to the Elixir Docs"
-subtitle: "Chapter 7 · checked against Elixir 1.20 · examples run on Elixir 1.14 · Sep 26, 2026"
+subtitle: "Chapter 7 · checked against Elixir 1.20 · examples run on Elixir 1.14 and 1.18 · Sep 26, 2026"
 ---
 
 ## 1. Why "string" means three different things
