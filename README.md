@@ -22,6 +22,9 @@ Start with the [Introduction](md/00-Introduction.md).
 | 3 | Processes, Tasks and Agents | [pdf](pdf/03-Processes-Tasks-and-Agents.pdf) | [md](md/03-Processes-Tasks-and-Agents.md) |
 | 4 | GenServer | [pdf](pdf/04-GenServer.pdf) | [md](md/04-GenServer.md) |
 | 5 | Supervision and Registry | [pdf](pdf/05-Supervision-and-Registry.pdf) | [md](md/05-Supervision-and-Registry.md) |
+| 6 | Enum, Stream and Collections | [pdf](pdf/06-Enum-Stream-and-Collections.pdf) | [md](md/06-Enum-Stream-and-Collections.md) |
+| 7 | Strings and Unicode | [pdf](pdf/07-Strings-and-Unicode.pdf) | [md](md/07-Strings-and-Unicode.md) |
+| 8 | Protocols and Behaviours | [pdf](pdf/08-Protocols-and-Behaviours.pdf) | [md](md/08-Protocols-and-Behaviours.md) |
 
 ## Rebuilding the PDFs
 
